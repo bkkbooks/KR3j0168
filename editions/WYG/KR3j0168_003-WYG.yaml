@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0168/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 負暄野録跋右負暄野録一帙莫知何人所述其發明今古碑刻及翰墨諸法後又附以文房四寳之評盖博雅之士也先君俾茅雲山草録而不及楷謄遂致紙板散亂至正七年五月初吉梅雨連日因理故書而緝之計其歳月則四十九載矣光隂去速可以慨歎拜手而題於左王東起善敬跋
+  hash: sha256:68cce4543cde437f2f5d89d83f04ff17d2da4463ddf841ea81d3f51e8fc3eb7c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0168_WYG_003-1a, image: WYG0871/WYG0871-0044a.png}
+metadata:
+  title: 負暄野錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:26:00.531025'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3j0168/KR3j0168_003.txt
+hash: sha256:e93b9e50c3084dbe627f531cb7f94e7b46ec011ea9203c687db1398d426565bb

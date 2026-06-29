@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0168/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0168_WYG_000-1a, image: WYG0871/WYG0871-0031a.png}
+body:
+  text: 負暄野録雜家類四雜品之屬提要臣等謹案負暄野録二卷舊本題曰陳槱撰不著時代卷末有至正七年王東跋乃云不知何人所述是當時所見之本未署名也今考書中秦璽一條稱槱嘗聞諸老先生議論則其人名槱無可疑但不知何所據而題為陳姓案閩書陳槱陳幾之孫長樂人紹熙元年進士書中秦璽條內稱嘉定己卯計光宗紹熙元年下距寧宗嘉定己卯首尾僅三十年又西漢碑條內亦稱聞之梁溪尤袤惜不再叩之袤云云亦正當光寧之時疑即此陳槱也其書上卷論石刻及諸家書格下卷論學書之法及紙墨筆研諸事皆源委分明足資考證至所載鼠鬚筆詩一首宋文鑑題為蘇過作其時斜川集尚存必無舛誤而槱稱昨見邵道豫賦鼠鬚筆殊有風度今載于此云云則失考之甚矣乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2de2178811a33c8858b036bd9d9172b20d508383c3c78459d318b2832c26813a
+metadata:
+  title: 負暄野錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:26:00.531025'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0168/KR3j0168_000.txt
+hash: sha256:4a7a058a264311b31919c6707ba4705ef522d1aa868955a3fb9d85354256edeb
