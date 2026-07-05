@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 負暄野録跋右負暄野録一帙莫知何人所述其發明今古碑刻及翰墨諸法後又附以文房四寶之評蓋博雅之士也先君俾茅雲山草録而不及楷謄遂致紙板散亂至正七年五月初吉梅雨連日因理故書而緝之計其歲月則四十九載矣光隂去速可以慨歎拜手而題於左王東起善敬跋
-  hash: sha256:1a094df7ebde6ba40ff78ea52bbd782e225c1c3f9696c9c95a45ae0392bf514e
+  text: 負暄野録跋右負暄野録一帙莫知何人所述其發明今古碑刻及翰墨諸法後又附以文房四寳之評盖博雅之士也先君俾茅雲山草録而不及楷謄遂致紙板散亂至正七年五月初吉梅雨連日因理故書而緝之計其歳月則四十九載矣光隂去速可以慨歎拜手而題於左王東起善敬跋
+  hash: sha256:68cce4543cde437f2f5d89d83f04ff17d2da4463ddf841ea81d3f51e8fc3eb7c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3j0168_WYG_003-1a, image: WYG0871/WYG0871-0044a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3j0168/KR3j0168_003.txt
-hash: sha256:8a61990b772c46406e2611a95494f72168b021647dfdc0af61a1092e987134dc
+hash: sha256:33d54e88e4f7dce7ba3db4e1102b9db9794eae7124ee3237b7ec275a5b4a89ff
